@@ -1,5 +1,1 @@
-gradle常用命令：
-     
-        gradle eclipse : 构建开发环境，下载定义的jar包
-        gradle build : 编译项目，生成build文件夹，并生成相应的jar或war包。
-        gradle clean : 与build相反，删除build文件夹。
+This is a test！
